@@ -1,0 +1,17 @@
+{
+	"title"		:	"DE_Outlaws",
+	"type"		:	"map",
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*",
+		"*.txt*",
+		"*.dua*",
+		"*.ztmp*",
+		"*.jpg*",
+		"*.bmp*",
+		"*.vtf_bak*",
+		"*.tga*"
+	]
+}
