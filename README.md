@@ -6,6 +6,10 @@ This is a version of Propoganda's DE_Outlaws map for Counter-Strike: Source, but
 
 https://steamcommunity.com/sharedfiles/filedetails/?id=717876056
 
+### A mirror is available on GarrysMods.org:
+
+https://garrysmods.org/download/60811/de-outlaws
+
 ### For the original CS:S version, please see the GameBanana page:
 
 https://gamebanana.com/maps/96393
